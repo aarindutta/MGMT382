@@ -1,19 +1,42 @@
 <html>
 <head>
-<title>List of Products and Services offered by Eloheh </title>
-
+  <title>List of Products and Services offered by Eloheh</title>
 </head>
 
 <body>
-<h1 style="text-align:center; font-family:'Times New Roman';"> Products and Services provided by Eloheh </h1>
+  <h1 style="text-align:center; font-family:'Times New Roman';">
+    Products and Services Provided by Eloheh
+  </h1>
 
-<p> Legacy products </P>
+  <h2>Legacy Products</h2>
+  <ul>
+    <li>Herbal Immune Boosting Capsules</li>
+    <li>Organic Pain Relief Balm</li>
+    <li>Traditional Healing Teas (e.g., Anti-inflammatory blend)</li>
+    <li>Community Health Education Workshops</li>
+    <li>Holistic Health Consultation Packages</li>
+  </ul>
 
-<p> Breakthrough products </P>
+  <h2>Breakthrough Products</h2>
+  <ul>
+    <li>AI-Powered Telehealth Platform for Indigenous Communities</li>
+    <li>Personalized Plant-Based Supplement Kits</li>
+    <li>Mobile Health Diagnostics App</li>
+    <li>Genetic Wellness Assessment (eco-genomics based)</li>
+    <li>Adaptogenic Wellness Line (Tinctures, Capsules, Powders)</li>
+  </ul>
 
-<p> In the pipeeline products </P>
+  <h2>In the Pipeline Products</h2>
+  <ul>
+    <li>Virtual Reality Mindfulness Therapy Experience</li>
+    <li>Indigenous-Inspired Nutritional Meal Plans</li>
+    <li>Smart Wearables for Remote Health Monitoring</li>
+    <li>Community Herbal Gardens Program</li>
+    <li>Partnership with Tribal Clinics for Integrated Care Systems</li>
+  </ul>
 
-<img> src="Eloheh Healthcare.png" 
-
+  <div style="text-align:center;">
+    <img src="Eloheh Healthcare.png" alt="Eloheh Healthcare Logo" style="max-width:400px; margin-top:20px;">
+  </div>
 </body>
 </html>
