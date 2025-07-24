@@ -1,14 +1,19 @@
 <html>
+<!-- This is the title of the webpage itself -->
 <head>
   <title>List of Products and Services offered by Eloheh</title>
 </head>
 
 <body>
+  <!-- This is center aligns, and changes font of the text for the header of the products and services apge -->
   <h1 style="text-align:center; font-family:'Times New Roman';">
     Products and Services Provided by Eloheh
   </h1>
 
+  <!-- This is subheader for the list of products on the page -->
   <h2>Legacy Products</h2>
+  
+  <!-- This is unsorted list of data -->
   <ul>
     <li>Herbal Immune Boosting Capsules</li>
     <li>Organic Pain Relief Balm</li>
@@ -17,6 +22,7 @@
     <li>Holistic Health Consultation Packages</li>
   </ul>
 
+  <!-- This is unsorted list of data -->
   <h2>Breakthrough Products</h2>
   <ul>
     <li>AI-Powered Telehealth Platform for Indigenous Communities</li>
@@ -26,7 +32,8 @@
     <li>Adaptogenic Wellness Line (Tinctures, Capsules, Powders)</li>
   </ul>
 
-  <h2>In the Pipeline Products</h2>
+  <!-- This is unsorted list of data -->
+ <h2>In the Pipeline Products</h2>
   <ul>
     <li>Virtual Reality Mindfulness Therapy Experience</li>
     <li>Indigenous-Inspired Nutritional Meal Plans</li>
@@ -35,6 +42,7 @@
     <li>Partnership with Tribal Clinics for Integrated Care Systems</li>
   </ul>
 
+  <!-- This is putting an image on the webpage and centers it and gives the size of the image and a margin to make it look nice on the page (div is just grouping together these commands-->
   <div style="text-align:center;">
     <img src="Eloheh Healthcare.png" alt="Eloheh Healthcare Logo" style="max-width:400px; margin-top:20px;">
   </div>
