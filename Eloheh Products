@@ -40,5 +40,10 @@
   <div style="text-align:center;">
     <img src="Eloheh Healthcare.png" alt="Eloheh Healthcare Logo" style="max-width:400px; margin-top:20px;">
   </div>
+ 
+<footer>
+    <p>Last modified on: <span id="lastModifiedDate"></span></p>
+  </footer>
 </body>
+
 </html>
