@@ -42,8 +42,9 @@
   </div>
  
 <footer>
-    <p>Last modified on: <span id="lastModifiedDate"></span></p>
-  </footer>
+p>Last modified on: <script>document.write(document.lastModified);</script></p>
+</footer>
+
 </body>
 
 </html>
