@@ -32,10 +32,10 @@
 
   <!-- This is unsorted list of data -->
  <h2>In the Pipeline Products</h2>
-  <ul>
-    <li>Virtual Reality Mindfulness Therapy Experience</li>
-    <li>Smart Wearables for Remote Health Monitoring</li>
-  </ul>
+  <ol>
+    <oi>Virtual Reality Mindfulness Therapy Experience</oi>
+    <oi>Smart Wearables for Remote Health Monitoring</oi>
+  </ol>
 
   <!-- This is putting an image on the webpage and centers it and gives the size of the image and a margin to make it look nice on the page (div is just grouping together these commands-->
   <div style="text-align:center;">
