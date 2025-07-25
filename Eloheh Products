@@ -43,7 +43,7 @@
   </div>
  
 <footer>
-p>Last modified on: <script>document.write(document.lastModified);</script></p>
+<p>Last modified on: <script>document.write(document.lastModified);</script></p>
 </footer>
 
 </body>
