@@ -6,7 +6,7 @@
 
 <body>
   <!-- This is center aligns, and changes font of the text for the header of the products and services apge -->
-  <h1 style="text-align:center; font-family:'Times New Roman';">
+  <h1 style="text-align:center; font-family: sans-serif;">
     Products and Services Provided by Eloheh
   </h1>
 
