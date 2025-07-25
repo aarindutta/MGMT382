@@ -19,27 +19,21 @@
     <li>Organic Pain Relief Balm</li>
     <li>Traditional Healing Teas (e.g., Anti-inflammatory blend)</li>
     <li>Community Health Education Workshops</li>
-    <li>Holistic Health Consultation Packages</li>
   </ul>
 
   <!-- This is unsorted list of data -->
   <h2>Breakthrough Products</h2>
   <ul>
-    <li>AI-Powered Telehealth Platform for Indigenous Communities</li>
+    <li>AI-Powered Telehealth Platform</li>
     <li>Personalized Plant-Based Supplement Kits</li>
     <li>Mobile Health Diagnostics App</li>
-    <li>Genetic Wellness Assessment (eco-genomics based)</li>
-    <li>Adaptogenic Wellness Line (Tinctures, Capsules, Powders)</li>
   </ul>
 
   <!-- This is unsorted list of data -->
  <h2>In the Pipeline Products</h2>
   <ul>
     <li>Virtual Reality Mindfulness Therapy Experience</li>
-    <li>Indigenous-Inspired Nutritional Meal Plans</li>
     <li>Smart Wearables for Remote Health Monitoring</li>
-    <li>Community Herbal Gardens Program</li>
-    <li>Partnership with Tribal Clinics for Integrated Care Systems</li>
   </ul>
 
   <!-- This is putting an image on the webpage and centers it and gives the size of the image and a margin to make it look nice on the page (div is just grouping together these commands-->
