@@ -6,12 +6,12 @@
 
 <body>
   <!-- This is center aligns, and changes font of the text for the header of the products and services apge -->
-  <h1 style="text-align:center; font-family: sans-serif;">
+  <h1 style="text-align:center; font-family: sans-serif; color: blue;">
     Products and Services Provided by Eloheh
   </h1>
 
   <!-- This is subheader for the list of products on the page -->
-  <h2>Injectable Products</h2>
+  <h2 style="color: teal;">Injectable Products</h2>
   
   <!-- This is unsorted list of data -->
   <ul>
@@ -23,7 +23,7 @@
   </ul>
 
   <!-- This is unsorted list of data -->
-  <h2>Oral Medication Products</h2>
+  <h2 style="color: teal;">Oral Medication Products</h2>
   <ul>
     <li>AI-Powered Telehealth Platform</li>
     <li>Personalized Plant-Based Supplement Kits</li>
@@ -31,7 +31,7 @@
   </ul>
 
   <!-- This is unsorted list of data -->
- <h2>Other Products</h2>
+ <h2 style="color: teal;">Other Products</h2>
   <ol>
     <li>Virtual Reality Mindfulness Therapy Experience</li>
     <li>Smart Wearables for Remote Health Monitoring</li>
