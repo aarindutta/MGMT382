@@ -6,7 +6,7 @@
 
 <body style="background-color: LightGray;">
   <!-- This is center aligns, and changes font of the text for the header of the products and services apge -->
-  <h1 style="text-align:center; font-family: sans-serif; color: blue;">
+  <h1 style="text-align:center; font-family: Garamond; color: blue;">
     Products and Services Provided by Eloheh
   </h1>
 
