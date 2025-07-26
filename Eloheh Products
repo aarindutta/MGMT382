@@ -11,7 +11,7 @@
   </h1>
 
   <!-- This is subheader for the list of products on the page -->
-  <h2>Legacy Products</h2>
+  <h2>Injectable Products</h2>
   
   <!-- This is unsorted list of data -->
   <ul>
@@ -23,7 +23,7 @@
   </ul>
 
   <!-- This is unsorted list of data -->
-  <h2>Breakthrough Products</h2>
+  <h2>Oral Medication Products</h2>
   <ul>
     <li>AI-Powered Telehealth Platform</li>
     <li>Personalized Plant-Based Supplement Kits</li>
@@ -31,7 +31,7 @@
   </ul>
 
   <!-- This is unsorted list of data -->
- <h2>In the Pipeline Products</h2>
+ <h2>Other Products</h2>
   <ol>
     <li>Virtual Reality Mindfulness Therapy Experience</li>
     <li>Smart Wearables for Remote Health Monitoring</li>
