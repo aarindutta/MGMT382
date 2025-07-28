@@ -1,30 +1,30 @@
 <html>
-<!-- This is the title of the webpage itself -->
 <head>
   <title>List of Products and Services offered by Eloheh</title>
 </head>
 
-<body style="background-color: LightGray;">
-  <!-- This is center aligns, and changes font of the text for the header of the products and services apge -->
-  <h1 style="text-align:center; font-family: Garamond; color: blue;">
+<body style="background-color: LightGray; font-size: 16px; font-family: Garamond;">
+
+  <!-- Page Header -->
+  <h1 style="text-align: center; color: blue;">
     Products and Services Provided by Eloheh
   </h1>
 
-  <!-- This is subheader for the list of products on the page -->
-  <h2 style="color: teal;">Injectable Products</h2>
-  
-  <!-- This is unsorted list of data -->
+  <!-- Subheader and List -->
+  <h2 style="color: teal; font-size: 24px;">Injectable Products</h2>
   <ul>
     <li>Tranquimor - Sleep Aid</li>
     <li>Imravax - Cancer Immunotherapy</li>
     <li>Metabrexin - Obesity</li>
     <li>Clinitrex - Real Time Clincal Data analysis of EHR service</li>
     <li>Obesynex - Specialized Obesity Treatment at a doctors office</li>
-    <a href="https://purdue0-my.sharepoint.com/personal/dutta61_purdue_edu/Documents/LEGACY%20PRODUCTS%20Eloheh.docx?web=1" download="filename">More Information regarding where to purchase these products or services</a>
+    <a href="https://purdue0-my.sharepoint.com/personal/dutta61_purdue_edu/Documents/LEGACY%20PRODUCTS%20Eloheh.docx?web=1" download="filename" style="color: purple;">
+      More Information regarding where to purchase these products or services
+    </a>
   </ul>
 
-  <!-- This is unsorted list of data -->
-  <h2 style="color: teal;">Oral Medication Products</h2>
+  <!-- Subheader and List -->
+  <h2 style="color: teal; font-size: 24px;">Oral Medication Products</h2>
   <ul>
     <li>Liposira - Fat Blocker</li>
     <li>Cognivance - Memory Support</li>
@@ -32,24 +32,24 @@
     <li>Leanquor - Fat-Burner Tablet</li>
   </ul>
 
-  <!-- This is unsorted list of data -->
- <h2 style="color: teal;">Other Products</h2>
+  <!-- Subheader and List -->
+  <h2 style="color: teal; font-size: 24px;">Other Products</h2>
   <ol>
     <li>AI-Powered Telehealth Platform</li>
-    <li>NeuroTrek- Smart Wearables</li>
+    <li>NeuroTrek - Smart Wearables</li>
     <li>Surgiovx - Surgical robotic tools</li>
     <li>Tranquess - Virtual stress reduction clinic</li>
   </ol>
 
-  <!-- This is putting an image on the webpage and centers it and gives the size of the image and a margin to make it look nice on the page (div is just grouping together these commands-->
-  <div style="text-align:center;">
-    <img src="Eloheh Healthcare.png" alt="Eloheh Healthcare Logo" style="max-width:400px; margin-top:20px;">
+  <!-- Logo -->
+  <div style="text-align: center;">
+    <img src="Eloheh Healthcare.png" alt="Eloheh Healthcare Logo" style="max-width: 400px; margin-top: 20px;">
   </div>
- 
-<footer>
-<p>Last modified on: <script>document.write(document.lastModified);</script></p>
-</footer>
+
+  <!-- Footer -->
+  <footer>
+    <p>Last modified on: <script>document.write(document.lastModified);</script></p>
+  </footer>
 
 </body>
-
 </html>
