@@ -10,20 +10,22 @@
     Products and Services Provided by Eloheh
   </h1>
 
-  <!-- Subheader and List -->
-  <h2 style="color: teal; font-size: 24px;">Injectable Products</h2>
+  <!-- Subheader, List, Image -->
+<div style="display: flex; gap: 30px; align-items: flex-start;">
+
+  <!-- List -->
   <ul>
     <li>Tranquimor - Sleep Aid</li>
     <li>Imravax - Cancer Immunotherapy</li>
     <li>Metabrexin - Obesity</li>
-    <li>Clinitrex - Real Time Clincal Data analysis of EHR service</li>
-    <li>Obesynex - Specialized Obesity Treatment at a doctors office</li>
+    <li>Clinitrex - Real Time Clinical Data analysis of EHR service</li>
+    <li>Obesynex - Specialized Obesity Treatment at a doctor’s office</li>
   </ul>
 
-  <!-- Image 1 -->
-  <div style="text-align: center;">
-    <img src="Injectable.png" alt="Injectable Drug" style="max-width: 400px; margin-top: 20px;">
-  </div>
+  <!-- Image -->
+  <img src="Injectable.png" alt="Injectable Drug"
+       style="max-width: 300px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+</div>
 
   <!-- Subheader and List -->
   <h2 style="color: teal; font-size: 24px;">Oral Medication Products</h2>
