@@ -26,16 +26,19 @@
   <!-- This is unsorted list of data -->
   <h2 style="color: teal;">Oral Medication Products</h2>
   <ul>
-    <li>AI-Powered Telehealth Platform</li>
-    <li>Personalized Plant-Based Supplement Kits</li>
-    <li>Mobile Health Diagnostics App</li>
+    <li>Liposira - Fat Blocker</li>
+    <li>Cognivance - Memory Support</li>
+    <li>Pulsevia - Heart Rhythm Stabalizer</li>
+    <li>Leanquor - Fat-Burner Tablet</li>
   </ul>
 
   <!-- This is unsorted list of data -->
  <h2 style="color: teal;">Other Products</h2>
   <ol>
-    <li>Virtual Reality Mindfulness Therapy Experience</li>
-    <li>Smart Wearables for Remote Health Monitoring</li>
+    <li>AI-Powered Telehealth Platform</li>
+    <li>NeuroTrek- Smart Wearables</li>
+    <li>Surgiovx - Surgical robotic tools</li>
+    <li>Tranquess - Virtual stress reduction clinic</li>
   </ol>
 
   <!-- This is putting an image on the webpage and centers it and gives the size of the image and a margin to make it look nice on the page (div is just grouping together these commands-->
