@@ -20,6 +20,11 @@
     <li>Obesynex - Specialized Obesity Treatment at a doctors office</li>
   </ul>
 
+  <!-- Image 1 -->
+  <div style="text-align: center;">
+    <img src="Injectable.png" alt="Injectable Drug" style="max-width: 400px; margin-top: 20px;">
+  </div>
+
   <!-- Subheader and List -->
   <h2 style="color: teal; font-size: 24px;">Oral Medication Products</h2>
   <ul>
@@ -42,11 +47,6 @@
   <p>
     <a href="files/Eloheh_Product_Catalog.pdf" download>Download Our Product Catalog to fing information regarding where to purchase these products or services</a>
   </p>
-
-  <!-- Image 1 -->
-  <div style="text-align: center;">
-    <img src="Injectable.png" alt="Injectable Drug" style="max-width: 400px; margin-top: 20px;">
-  </div>
 
   <!-- Contact Information -->
   <h2 style="color: teal; font-size: 24px;">How to contact us</h2>
