@@ -12,7 +12,7 @@
 
   <!-- Subheader, List, Image -->
 <div style="display: flex; gap: 30px; align-items: flex-start;">
-
+  <h2 style="color: teal; font-size: 24px;"Injectable Products</h2>
   <!-- List -->
   <ul>
     <li>Tranquimor - Sleep Aid</li>
@@ -27,7 +27,10 @@
 </div>
 
   <!-- Subheader and List -->
+<div style="display: flex; gap: 30px; align-items: flex-start;">
   <h2 style="color: teal; font-size: 24px;">Oral Medication Products</h2>
+
+  <!-- List -->
   <ul>
     <li>Liposira - Fat Blocker</li>
     <li>Cognivance - Memory Support</li>
