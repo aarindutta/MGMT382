@@ -18,12 +18,6 @@
     <li>Metabrexin - Obesity</li>
     <li>Clinitrex - Real Time Clincal Data analysis of EHR service</li>
     <li>Obesynex - Specialized Obesity Treatment at a doctors office</li>
-    <li>
-    <a href="https://purdue0-my.sharepoint.com/personal/dutta61_purdue_edu/Documents/LEGACY%20PRODUCTS%20Eloheh.docx?web=1"
-       download="filename" style="color: purple;">
-      More Information regarding where to purchase these products or services
-    </a>
-  </li>
   </ul>
 
   <!-- Subheader and List -->
@@ -43,6 +37,11 @@
     <li>Surgiovx - Surgical robotic tools</li>
     <li>Tranquess - Virtual stress reduction clinic</li>
   </ol>
+
+  <!-- Downloadable file -->
+  <p>
+    <a href="files/Eloheh_Product_Catalog.pdf" download>Download Our Product Catalog to fing information regarding where to purchase these products or services</a>
+  </p>
 
   <!-- Logo -->
   <div style="text-align: center;">
