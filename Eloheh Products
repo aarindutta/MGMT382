@@ -23,8 +23,7 @@
   </ul>
 
   <!-- Image -->
-  <img src="Injectable.png" alt="Injectable Drug"
-       style="max-width: 300px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="Injectable.png" alt="Injectable Drug" style="max-width: 300px; height: auto;">
 </div>
 
   <!-- Subheader and List -->
