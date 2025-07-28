@@ -34,6 +34,11 @@
     <li>Leanquor - Fat-Burner Tablet</li>
   </ul>
 
+  <!-- Image 2 -->
+  <div style="text-align: center;">
+    <img src="Injectable.png" alt="Injectable Drug" style="max-width: 400px; margin-top: 20px;">
+  </div>
+
   <!-- Subheader and List -->
   <h2 style="color: teal; font-size: 24px;">Other Products</h2>
   <ol>
@@ -42,6 +47,11 @@
     <li>Surgiovx - Surgical robotic tools</li>
     <li>Tranquess - Virtual stress reduction clinic</li>
   </ol>
+
+  <!-- Image 3 -->
+  <div style="text-align: center;">
+    <img src="Injectable.png" alt="Injectable Drug" style="max-width: 400px; margin-top: 20px;">
+  </div>
 
   <!-- Downloadable file -->
   <p>
