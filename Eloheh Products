@@ -43,9 +43,9 @@
     <a href="files/Eloheh_Product_Catalog.pdf" download>Download Our Product Catalog to fing information regarding where to purchase these products or services</a>
   </p>
 
-  <!-- Logo -->
+  <!-- Image 1 -->
   <div style="text-align: center;">
-    <img src="Eloheh Healthcare.png" alt="Eloheh Healthcare Logo" style="max-width: 400px; margin-top: 20px;">
+    <img src="Injectable.webp" alt="" style="max-width: 400px; margin-top: 20px;">
   </div>
 
   <!-- Contact Information -->
